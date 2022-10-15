@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: hsl(0, 0%, 93%);
+    background-color:white ;
     overflow-x: hidden;
 }
 
@@ -478,7 +478,7 @@ footer {
     align-items: center;
     height: 175px;
     width: 100vw;
-    background-color: hsl(180, 6%, 83%);
+    background-color: hsl(0, 17%, 95%);
 }
 
 footer picture img {
